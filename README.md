@@ -1,4 +1,4 @@
-# Sales Dashboard Using Excel
+# Store Sales Data Analysis Dashboard Using Excel
 
 ## Objective
 The objective of this project is to create a comprehensive sales dashboard using Excel, leveraging data analysis techniques to provide valuable insights into various product sales.
